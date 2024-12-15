@@ -4,4 +4,4 @@ div.main { display: flex;
   align-items: center; }
 div.inner {display: flex;
   justify-content: center;
-  align-items: center; margin:0 auto; width:200px; height:200px; text-align:center; background-color:#ADD8E6; border:2px solid :#000; color:purple;}
+  align-items: center; margin:0 auto; width:200px; height:200px; text-align:center; background-color:#ADD8E6; border:2px solid #000; color:purple;}
